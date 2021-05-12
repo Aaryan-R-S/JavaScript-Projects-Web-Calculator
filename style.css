@@ -1,0 +1,42 @@
+.cont{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 6vh;
+}
+h1{
+    font-size: 40px;
+    text-decoration: underline goldenrod;
+}
+
+table{
+    margin: auto;
+    margin-top: 30px;
+}
+
+input{
+    font-size: 28px;
+    margin-top: 16px;
+    width: 280px;
+    height: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+button{
+    font-size: 30px;
+    height: 50px;
+    width: 60px;
+    border: 2px solid;
+    border-radius: 10px;
+    outline: none;
+}
+button:hover{
+    color: white;
+    background-color: black;
+}
+.cal{
+    background-color: blanchedalmond;
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+    margin: auto;
+}
